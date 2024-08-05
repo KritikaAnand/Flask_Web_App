@@ -13,6 +13,8 @@
 - User Authentication 🔐 (Sign Up, Login, Logout)
 - Add, View, and Delete Notes 🗒️
 - Responsive Design 📱
+- ![Screenshot 2024-08-05 183021](https://github.com/user-attachments/assets/48f6a6bf-1abe-41a7-813a-9e5ef1f1ce1e)
+
 
 ## Prerequisites
 
